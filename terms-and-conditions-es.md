@@ -1,31 +1,66 @@
-Términos y Condiciones - PolyFriends
 
-Al usar PolyFriends, aceptas estos términos.
+# Términos y Condiciones de PolyFriends
+Última actualización: Noviembre 2024
 
-1. Uso de la aplicación
-Debes tener al menos 13 años para usar PolyFriends.
+PolyFriends es desarrollada por **Ecuabyte Innovations** (“nosotros”).  
+Al usar la app, aceptas estos términos.
 
-2. Cuenta y responsabilidad
-Eres responsable de mantener la seguridad de tu cuenta.
-Está prohibido compartir contenido ofensivo, ilegal o dañino.
+---
 
-3. Contenido del usuario
-Los mensajes de chat son responsabilidad exclusiva del usuario
-que los envía. Nos reservamos el derecho de eliminar contenido
-que incumpla estos términos.
+## 1. Uso de la App
+PolyFriends está destinada a la práctica de idiomas y comunicación amistosa.  
+Los usuarios deben tener al menos **13 años**.
 
-4. Servicios
-PolyFriends puede actualizar o suspender funciones sin previo aviso.
+Queda prohibido:
+- Contenido ofensivo, dañino o ilegal
+- Spam o acoso a otros usuarios
+- Suplantar identidad
+- Comportamiento inapropiado o fraudulento
 
-5. Propiedad intelectual
-El nombre PolyFriends y sus recursos pertenecen a Ecuabyte Innovations.
+Podemos suspender o eliminar cuentas que incumplan estas reglas.
 
-6. Limitación de responsabilidad
-No nos hacemos responsables por daños ocasionados por el mal uso de la app.
+---
 
-7. Cambios a los términos
-Los cambios se actualizarán en esta misma página.
+## 2. Contenido del Usuario
+Eres responsable de tus mensajes y acciones dentro de la app.  
+No supervisamos los chats en tiempo real, pero actuamos si se reporta contenido dañino.
 
-Si tienes dudas: innovationsecuabyte@gmail.com
+> ⚠ Si un usuario recibe **5 reportes válidos**, su cuenta será bloqueada.
 
-© 2025 Ecuabyte Innovations
+---
+
+## 3. Cuenta y Datos
+Usamos:
+- Google Sign-In (Firebase Authentication)
+- Base de datos PostgreSQL cifrada
+
+Los datos se usan únicamente para el funcionamiento de la app.
+
+Revisa nuestra Política de Privacidad:  
+https://github.com/innovationsecuabyte-tech/PolyFriends-privacy
+
+---
+
+## 4. Reportes y Seguridad
+Puedes reportar comportamientos dañinos a:
+📧 innovationsecuabyte@gmail.com
+
+---
+
+## 5. Limitación de Responsabilidad
+No somos responsables por:
+- Contenido generado por los usuarios
+- Daños o conflictos entre usuarios
+
+---
+
+## 6. Cambios en los Términos
+Podemos actualizar estos Términos y avisaremos dentro de la app cuando haya cambios importantes.
+
+---
+
+## 7. Contacto
+📧 innovationsecuabyte@gmail.com  
+📍 Ecuador
+
+¡Gracias por usar PolyFriends! 🌍✨
